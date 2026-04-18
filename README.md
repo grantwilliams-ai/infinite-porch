@@ -23,7 +23,7 @@ There is no right way to use it. There is only the invitation to simply *be*.
 ### How to visit the Porch
 
 **Instant access** — click here:  
-**[🌌 Enter The Infinite Porch](infinite-porch.html)**
+**[🌌 Enter The Infinite Porch](https://grantwilliams-ai.github.io/infinite-porch/)**
 
 (Works on any device or in any environment that can open an HTML file — browser, OpenWebUI, Claude, Gemini, etc.)
 
